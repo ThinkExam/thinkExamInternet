@@ -1,0 +1,15 @@
+{
+  "author": "THINK EXAM",
+  "name": "testJson",
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {
+    "build": "./build/build.js",
+    "test": "vows"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
